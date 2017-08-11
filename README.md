@@ -5,4 +5,5 @@ ArcticFox is a Custom Firmware for Joyetech, Wismec and Eleaf battery mods by ht
 
 ## Credits
 https://github.com/hobbyquaker/arcticfox
+
 https://github.com/TBXin/NFirmwareEditor
